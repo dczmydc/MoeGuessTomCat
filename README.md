@@ -1,0 +1,2 @@
+JAVA EE VERSION OF MG.
+
